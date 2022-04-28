@@ -2,7 +2,6 @@ randomly.facts
 ==============
 
 .. automodule:: randomly.facts
-  :members:
-  :undoc-members:
-  :show-inheritance:
-
+   :members:
+   :undoc-members:
+   :show-inheritance:

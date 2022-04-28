@@ -1,9 +1,10 @@
 format: jb-book
 root: index
 parts:
-  - caption: Name of Part 1
+  - caption: Guides
     chapters:
-    - file: guides/facts.ipynb
-  - caption: api reference
+      - file: guides/install
+      - file: guides/points
+  - caption: API Reference
     chapters:
       - glob: api/*

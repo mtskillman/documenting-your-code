@@ -1,5 +1,4 @@
-# Foo
+# Home
 
-lorem ipsum dolor
 ```{tableofcontents}
 ```
