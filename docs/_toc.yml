@@ -1,0 +1,9 @@
+format: jb-book
+root: index
+parts:
+  - caption: Name of Part 1
+    chapters:
+    - file: guides/facts.ipynb
+  - caption: api reference
+    chapters:
+      - glob: api/*
